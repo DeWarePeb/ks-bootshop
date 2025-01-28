@@ -58,6 +58,7 @@
           "type": "mobile",
           "settings": {
             "container_max_width": "",
+            "logo": "shopify://shop_images/WhatsApp_Image_2025-01-12_at_22.55.12_1.jpg",
             "logo_height": 30,
             "main_menu": "",
             "collections_menu": "",
